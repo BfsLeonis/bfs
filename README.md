@@ -1,1 +1,2 @@
-fds
+# LEONIS
+[DISCORD](https://discord.gg/interpool)
